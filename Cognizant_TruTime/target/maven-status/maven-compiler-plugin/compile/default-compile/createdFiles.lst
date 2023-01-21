@@ -1,0 +1,6 @@
+baseClass\BaseClass.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\TruTimePage.class
+utilities\DriverSetup.class
+utilities\PropertiesFileReader.class
